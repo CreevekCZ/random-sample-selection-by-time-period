@@ -1,0 +1,6 @@
+.dart_tool/
+*.lock
+*.numbers
+*.tsv
+*.csv
+.DS_Store
